@@ -1,0 +1,7 @@
+export const MULTI = "multi"
+export const ALBUMS = "albums"
+export const ARTISTS = "artists"
+export const GENRES = "genres"
+export const PLAYLISTS = "playlists"
+export const PODCASTS = "podcasts"
+export const TRACKS = "tracks"
